@@ -9,7 +9,7 @@
 
 
 ## Project Description
-The purpose of this project is to cluster customers in a mall into multiple groups on the basis of age, spending capability, spending score etc. This can provide us useful insights into what are the requiremetns of each group and accordingly marketing strategies and policies can be built to optimize spending score of the customers. 
+This study aims to divide mall customers into many groups according to factors like age, spending capacity, spending score, etc. This can give us valuable information about the needs of each group, allowing us to develop marketing plans and guidelines to maximise client spending.
 
 ## Tools Used:
 1. Scikit learn library in python for implementing clustering algorithms.
@@ -31,6 +31,6 @@ https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python/dow
 2. **Hierarchial** is used for generating clusters, optimal number of clusters is obtained using **Dendogram** method.
 
 ## Conclusion
-By looking at the clusters of customers and their corresponding spending scores, customers have been aggregated them into 4 different categories namely Usual Customers, Priority Customers, Senior Citizen Target Customers, Young Target Customers. Appropriate marketing strategies and policies (according to segment in which custome lies) can be made to optimize the spending scores of the customer in the Mall.
+The customer's spending scores in the mall can be optimised by using the appropriate marketing tactics and policies (based on the segment in which the customer resides).
 
 
