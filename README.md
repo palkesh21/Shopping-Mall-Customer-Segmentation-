@@ -1,5 +1,10 @@
 # Shopping-Mall-Customer-Segmentation-
 
+## Breif Summary 
+1.Visualized data using Histogram, Pie Chart, and Box Plot & conducted hypothesis testing to study features correlation  
+2.Performed Elbow Technique and used Dendrogram to obtain the optimal number of clusters as 5 clusters in both cases
+3.Implemented K Means Clustering & Hierarchical Clustering to form clusters based on the Input Features & Plotted in 2D, 3D
+
 ## Project Description
 The purpose of this project is to cluster customers in a mall into multiple groups on the basis of age, spending capability, spending score etc. This can provide us useful insights into what are the requiremetns of each group and accordingly marketing strategies and policies can be built to optimize spending score of the customers. 
 
@@ -25,7 +30,4 @@ https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python/dow
 ## Conclusion
 By looking at the clusters of customers and their corresponding spending scores, customers have been aggregated them into 4 different categories namely Usual Customers, Priority Customers, Senior Citizen Target Customers, Young Target Customers. Appropriate marketing strategies and policies (according to segment in which custome lies) can be made to optimize the spending scores of the customer in the Mall.
 
-## Summary 
-1.Visualized data using Histogram, Pie Chart, and Box Plot & conducted hypothesis testing to study features correlation  
-2.Performed Elbow Technique and used Dendrogram to obtain the optimal number of clusters as 5 clusters in both cases
-3.Implemented K Means Clustering & Hierarchical Clustering to form clusters based on the Input Features & Plotted in 2D, 3D
+
