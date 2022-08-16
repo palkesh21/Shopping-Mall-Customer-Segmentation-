@@ -1,9 +1,12 @@
 # Shopping-Mall-Customer-Segmentation-
 
 ## Breif Summary 
-1.Visualized data using Histogram, Pie Chart, and Box Plot & conducted hypothesis testing to study features correlation  
-2.Performed Elbow Technique and used Dendrogram to obtain the optimal number of clusters as 5 clusters in both cases
-3.Implemented K Means Clustering & Hierarchical Clustering to form clusters based on the Input Features & Plotted in 2D, 3D
+1.Visualized data using Histogram, Pie Chart, and Box Plot & conducted hypothesis testing to study features correlation
+
+2.Identified the optimal number of clusters as 5 clusters from both Elbow Technique and Dendrogram visualization 
+
+3.Applied K Means Clustering & Hierarchical Clustering to form clusters based on the Input Features & Plotted in 2D, 3D
+
 
 ## Project Description
 The purpose of this project is to cluster customers in a mall into multiple groups on the basis of age, spending capability, spending score etc. This can provide us useful insights into what are the requiremetns of each group and accordingly marketing strategies and policies can be built to optimize spending score of the customers. 
